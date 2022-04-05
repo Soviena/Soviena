@@ -1,6 +1,10 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soviena)](https://github.com/ryo-ma/github-profile-trophy)
-![Soviena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soviena&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soviena&theme=nord"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soviena&show_icons=true&theme=vue-dark"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soviena&layout=compact&theme=vue-dark&hide=css,html"/><br/>Visit<br/>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Soviena?theme=rule34"/></a><br/>
+</p>
 <!--
 **Soviena/Soviena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
